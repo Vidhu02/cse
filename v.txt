@@ -1,2 +1,6 @@
 summer
 winter
+monsoon
+spring
+autumn
+seasons
