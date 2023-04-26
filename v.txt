@@ -3,3 +3,4 @@ winter
 monsoon
 spring
 autumn
+seasons
