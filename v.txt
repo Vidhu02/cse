@@ -5,3 +5,8 @@ umbrella
 rain
 storm
 when the sunshine we shine
+monsoon
+spring
+autumn
+seasons
+
