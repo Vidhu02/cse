@@ -1,2 +1,6 @@
 summer
 winter
+umbrella
+*****
+rain
+storm
