@@ -4,3 +4,4 @@ umbrella
 *****
 rain
 storm
+when the sunshine we shine
